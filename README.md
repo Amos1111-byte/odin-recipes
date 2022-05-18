@@ -1,3 +1,3 @@
 # odin-recipes
-This is the first Odin git project.
-Wish me well.
+This is my first Odin git project.
+<p>Wish me well.</p>
